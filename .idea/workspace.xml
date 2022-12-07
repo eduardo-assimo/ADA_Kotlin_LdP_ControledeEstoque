@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae1c0f12-a8a4-4627-9ae3-7f2ebd0d38b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesafioControleEstoque.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ControleEstoque.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/refactoring/exceptions/LimiteEstoqueMaxException.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/refactoring/objetos/Estoque.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/refactoring/objetos/ItemEstoque.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/refactoring/programa/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ControleEstoque.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/original/ControleEstoque.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -41,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/EDUARDO/workspace/LetsCodeSantanderCoders/Kotlin_Mobile/MB-KT-001 Lógica de Programação/DesafioPadoca"
+    "last_opened_file_path": "C:/Users/EDUARDO/workspace/LetsCodeSantanderCoders/Kotlin_Mobile/MB-KT-001 Lógica de Programação/DesafioControleEstoque"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

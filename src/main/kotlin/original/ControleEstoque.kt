@@ -1,5 +1,7 @@
+package original
+
 fun main() {
-    var listaItens = mutableListOf<Triple<Int, String, Int>>()
+    val listaItens = mutableListOf<Triple<Int, String, Int>>()
     var idGlobal = 1
     var opcao: Int?
     val menu = """
